@@ -2,6 +2,10 @@
  NLW6 - Discover - RocketQ
 </h1>
 
+<p align="center">
+ <img alt="Rocket.Q" src="https://user-images.githubusercontent.com/92222852/142973406-e6b31fd4-073b-4832-9eaa-dabca3d5586e.png" width="100%">
+</p>
+
 ## 🚀 Technologies
 
 Project developed with the following technologies:
