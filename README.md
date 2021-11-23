@@ -19,8 +19,6 @@ Project developed with the following technologies:
 Rocket.Q is an application of interaction through questions, being possible to create a room for anonymous Internet users to ask questions and the creator of the room, 
 with a password, to manage these questions and mark them as read.
 
-To visualize the final result, [click here!](<https://lonewalker59.github.io/NLW6-Discover/>)
-
 ## 🎨 Layout
 
 Visit the project layout through [this link.](<https://www.figma.com/community/file/1009821158959690135>). You must have a [Figma](https://figma.com) account to acess it.
